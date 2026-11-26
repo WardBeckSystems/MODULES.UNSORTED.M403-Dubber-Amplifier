@@ -32,7 +32,7 @@ Wide amplifier schematic strip with title block at bottom right.
 - **Words (OCR):** 33 in 33 lines: 1n2070 · Lnregu_ated · 30,25 · 50/70 · lioo/70 · F04zA · 162 · 10/25 · 290/33 · AQDEBT-5 · 475 · IN?O70
 - **Wiring (first pass):** 91 connected wire groups from 703 runs; labelled ends: 591 mm → Ezk /I0/25, <R3, AQDEBT-5, MT; 192 mm → 50/70; 100 mm → 30,25; 99 mm → 162; 98 mm → 394
 
-Every curve, box, word and wire group: [19xx - 403-02-001 - DUBBER AMP SCHEMATIC - ISS 4 (traced).json](../SCHEMATICS/19xx%20-%20403-02-001%20-%20DUBBER%20AMP%20SCHEMATIC%20-%20ISS%204%20(traced).json) (the CAD file: `19xx - 403-02-001 - DUBBER AMP SCHEMATIC - ISS 4 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 403-02-001 - DUBBER AMP SCHEMATIC - ISS 4 (traced).json](../SCHEMATICS/19xx%20-%20403-02-001%20-%20DUBBER%20AMP%20SCHEMATIC%20-%20ISS%204%20%28traced%29.json) (the CAD file: `19xx - 403-02-001 - DUBBER AMP SCHEMATIC - ISS 4 (traced).dxf`).
 
 ## Full text
 

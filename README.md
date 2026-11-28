@@ -1,6 +1,6 @@
 # M403 Dubber Amplifier · Amplifiers
 
-Ward-Beck Systems M403. Wiki page: [M403 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M403.html)
+Ward-Beck Systems M403. Wiki page: [M403 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M403-Dubber-Amplifier/)
 
 | Folder | What is in it | Files |
 |---|---|---|

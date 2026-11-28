@@ -1,5 +1,5 @@
 # 19xx - 403-02-001 - DUBBER AMP SCHEMATIC - ISS 4.jpg
-Wiki page: [M403](../../../../PAGES/M403.md)
+Wiki page: [M403](../)
 
 
 - **Year:** unknown (title block (read by eye))
